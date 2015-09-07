@@ -2,3 +2,4 @@
 add　追加→更新
 upd　更新
 upd　更新２→更新
+upd  releaseブランチ
