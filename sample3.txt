@@ -1,6 +1,6 @@
-ƒTƒ‹‚Å‚à‚í‚©‚éGitƒRƒ}ƒ“ƒh‚R
-add@’Ç‰Á¨XV
-upd@XV
-upd@XV‚Q¨XV
-upd  releaseƒuƒ‰ƒ“ƒ`
-upd  releaseƒuƒ‰ƒ“ƒ`‚Q
+ã‚µãƒ«ã§ã‚‚ã‚ã‹ã‚‹Gitã‚³ãƒãƒ³ãƒ‰ï¼“
+addã€€è¿½åŠ â†’æ›´æ–°
+updã€€æ›´æ–°
+updã€€æ›´æ–°ï¼’â†’æ›´æ–°
+upd  releaseãƒ–ãƒ©ãƒ³ãƒ
+upd  releaseãƒ–ãƒ©ãƒ³ãƒï¼’
